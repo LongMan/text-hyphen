@@ -6079,5 +6079,6 @@ Text::Hyphen::Language::RU = Text::Hyphen::Language.new do |lang|
   PATTERNS
 
   lang.exceptions <<-EXCEPTIONS
+или
   EXCEPTIONS
 end
